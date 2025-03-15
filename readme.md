@@ -30,6 +30,8 @@ npm install
 npm run flights <username> <password>
 ```
 
+Support: [Buy me a Coffee](https://buymeacoffee.com/lzilioli)
+
 ---
 
 # Former README:
