@@ -30,6 +30,7 @@
   "dependencies": {
     "dayjs": "1.11.10",
     "debug": "^2.2.0",
+    "download": "^8.0.0",
     "ics": "3.7.2",
     "lodash": "4.17.21",
     "meow": "^3.3.0",
