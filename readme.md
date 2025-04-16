@@ -3,6 +3,8 @@
 
 # @lzilioli Changes 2025:
 
+TripCase has their own export utility now, which you can access from your account on their website. This tool is effectively onviated by TripCase' own tool.
+
 [TripCase is retiring](https://www.reddit.com/r/travel/comments/1imzlga/tripcase_retiring/). We need a better way to export.
 
 Heavily modified fork of https://github.com/madmod/tripcase
